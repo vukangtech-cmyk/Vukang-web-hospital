@@ -1,0 +1,6 @@
+{
+  "name": "Hospitali ya Afya Bora",
+  "description": "Tovuti kamili ya Hospitali ya Afya Bora yenye mfumo wa kuweka miadi ya daktari mtandaoni na huduma zote za afya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
